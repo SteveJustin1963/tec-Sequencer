@@ -1,4 +1,4 @@
-# tec-sequencer
+# tec-Sequencer
 
 hack together sequencer with the tec-1
 
